@@ -1,0 +1,13 @@
+Weather-Card-UI/
+  demo/
+    icon.png
+    index.html
+    style.css
+  index.html
+  original/
+    weather-card-ui-06-april-2022/
+      icon.png
+      index.html
+      style.css
+  PROVENANCE_LICENSE.txt
+  README.md
